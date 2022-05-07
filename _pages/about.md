@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
+profile: I am working at Huawei now. 
   align: right
   image: mypic.jpg
 
